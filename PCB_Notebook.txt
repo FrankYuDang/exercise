@@ -1,0 +1,12 @@
+% 07/Sept/2019
+
+Altium designer PCB layout.
+Request Altium on Lab PC. 
+
+1.1
+Adding new components by start File -> New Project -> Integrated Libraray.
+Link existing files into the project, which are XX.SchLib and .PcbLib
+1.2
+Add new component by opneing the .SchLib with new Designator, Comment and Model(TO-220).
+At the blank area, place pins (P+P) and edit the orientation, place rectangle.
+
