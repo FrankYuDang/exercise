@@ -9,4 +9,18 @@ Link existing files into the project, which are XX.SchLib and .PcbLib
 1.2
 Add new component by opneing the .SchLib with new Designator, Comment and Model(TO-220).
 At the blank area, place pins (P+P) and edit the orientation, place rectangle.
+1.3 
+Add the model of componet by opening PCB lib. 
+Place the pads and set the locations,
+Change to top overlayer for adding the lines and strings. 
 
+3 - Schematics Desing. 
+file -> Project -> PCB Project. PrjPcb 
+add new Schematics and PCB file into the project. 
+
+3.1 Setting the template
+3.2 Examine the schemactcs. Do them section by section. 
+Pick and component and edit the properties. 
+
+Use place XX and tap key to change the name and designator. 
+The net label must on a grid.
