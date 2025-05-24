@@ -1,0 +1,12 @@
+.vscode/
+.ipynb_checkpoints/
+anaconda_projects/
+_python_sandbox/LearnPybullet/venv/
+
+
+
+
+*.csv
+*.xlsx
+
+
